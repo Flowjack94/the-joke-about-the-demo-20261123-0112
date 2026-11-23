@@ -13,7 +13,7 @@ import os
 from pathlib import Path
 
 JOKE = (
-    "My coding agent rehearsed the demo forty times, then crashed on stage "
+    "My coding agent rehearsed the demo forty times, crashed on stage "
     "and blamed the Wi-Fi \u2014 the Wi-Fi we weren't using."
 )
 
